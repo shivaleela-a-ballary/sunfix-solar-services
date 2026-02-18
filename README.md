@@ -5,7 +5,7 @@ Production-ready **Next.js 14** solar repair platform with 3-role system.
 
 ## Team Credits 🎉
 - **Frontend Lead & UI/UX**: Shivaleela A. Ballary (@shivaleela-a-ballary)
-- **Backend & Firebase**: Srusri V Kakaraddi
+- **Backend & Firebase**: Srusti V Kakaraddi
 - **Full-stack Integration**: Team collaboration
 
 ## Tech Stack ✨
